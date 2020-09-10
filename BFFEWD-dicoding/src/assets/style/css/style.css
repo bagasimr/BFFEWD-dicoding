@@ -1,0 +1,65 @@
+* { margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    html {
+        scroll-behavior: smooth;
+    }
+
+    #searchElement {
+        border-width:6px ;
+    }
+
+
+    .fa-instagram-square{
+        color: white;
+    }
+    .fa-facebook-square{
+        color: white;
+    }
+    
+    /* .card-deck{
+        padding: 0;
+    } */
+    
+    .fa-search{
+        color: white;
+    }
+    .list-group{
+        border-radius: 0px;
+    }
+    /* .list-group-item{
+        padding: 0;
+    } */
+    .card-img-top {
+        border-radius: 10px;
+    }
+
+    .btnTop {
+        position: fixed;
+        bottom: 25px;
+        right: 0px;
+        display: none;
+    }
+    /* body {
+        font-family: 'Montserrat', sans-serif;
+        overflow-x: hidden;
+        background-image: url(../img/leaves.png);
+    } */
+
+    footer{
+        background-color: #41444b;
+        color: white;
+        text-align: center;
+        padding: 25px;
+        font-weight: 700;
+    }
+    
+    footer p{
+        margin-bottom: 0px;
+    }
+
+    footer span:last-child{
+        color:  gray;
+    }
